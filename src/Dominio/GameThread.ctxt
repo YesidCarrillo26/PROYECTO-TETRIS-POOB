@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameThread
+comment1.params=_tetris
+comment1.target=GameThread(Tetris)
+comment2.params=_play
+comment2.target=void\ pausa(boolean)
+comment3.params=
+comment3.target=void\ run()
+numComments=4
